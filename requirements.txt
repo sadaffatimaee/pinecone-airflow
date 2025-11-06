@@ -1,0 +1,6 @@
+apache-airflow-providers-http
+pandas
+sentence-transformers
+pinecone
+requests
+psycopg2-binary==2.9.9
